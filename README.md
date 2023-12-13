@@ -1,7 +1,5 @@
 # Obstacle Avoidance Ground Robot
 
-## Project Report by Aanvik Bhatnagar, Divyansh Pandey, Hemang Jain, Mohak Somani
-
 ## 1. Introduction
 
 The project involves the implementation of an intelligent obstruction-avoidance ground robot using the ESP32 micro-controller. The system integrates ultrasonic sensors, motor drivers, edge-avoidance, radar (real-time obstacle visualization through a radar unit), and a Bluetooth Remote control. The embedded system employs a seamless data flow architecture to facilitate communication and control between various components, enabling both autonomous and manual modes of operation for the ground robot. The Radar Unit and Edge Avoidance enhance the overall functionalities of the ground robot from the perspective of safety and applications.
@@ -117,6 +115,25 @@ This unit contains the Remote Control , Obstacle Avoidance and Edge Avoidance co
 
 [Processing Code](#)
 
-## 9. References
+# Contributors
 
-[References](#)
+### 1. Mohak Somani
+- **Roll No :**  2022101088
+- **GitHub UserID :** MohakSomani
+- **Email :** mohak.somani@students.iiit.ac.in
+
+### 2. Hemang Jain
+- **Roll No :**  2022101086
+- **GitHub UserID :** hemang-n00b
+- **Email :** hemang.jain@students.iiit.ac.in
+  
+### 3. Divyansh Pandey
+- **Roll No :**  2022101111
+- **GitHub UserID :** divyansh911
+- **Email :** divyansh.pandey@students.iiit.ac.in
+
+### 4. Aanvik Bhatnagar
+- **Roll No :**  2022101103
+- **GitHub UserID :** AanvikBh
+- **Email :** aanvik.bhatnagar@students.iiit.ac.in
+  
